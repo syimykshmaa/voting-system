@@ -1,0 +1,11 @@
+{
+  "name": "backend-elm-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd backend && npm run dev",
+    "start": "cd backend && npm start",
+    "install-backend": "cd backend && npm install",
+    "build": "cd backend && npm run build"
+  }
+}
