@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "cd backend && npm run dev",
-    "start": "cd backend && npm start",
-    "install-backend": "cd backend && npm install",
-    "build": "cd backend && npm run build"
+    "dev": "npm --prefix backend run dev",
+    "start": "npm --prefix backend start",
+    "install-backend": "npm --prefix backend install",
+    "build": "npm --prefix backend install"
   }
 }

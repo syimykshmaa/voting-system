@@ -185,3 +185,20 @@ CORS настроен строго на `process.env.CLIENT_ORIGIN`.
 4. `POST http://localhost:5000/api/auth/login`
 
 Если нужно, я могу дополнить README разделом с примерами curl-запросов или Postman коллекцией.
+
+## Deploy to Railway
+
+This repository is configured for Railway from the repo root via `railway.json`.
+
+Required Railway environment variables:
+
+- `MONGODB_URI`
+- `JWT_SECRET`
+- `CLIENT_ORIGIN`
+- `SEED_ON_START` (recommended: `false` in production)
+
+Notes:
+
+- Railway will provide `PORT` automatically.
+- Healthcheck endpoint is `GET /api/health`.
+- Start command is `npm --prefix backend start`.
