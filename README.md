@@ -1,3 +1,9 @@
+https://github.com/syimykshmaa/voting-system-front.git - google drive
+
+https://canva.link/sbnrbo59thc2wrd - presentation
+
+https://voting-system-front-production.up.railway.app/ - deploy
+
 # Voting System Backend
 
 Node.js + Express backend для системы голосования с JWT-аутентификацией и MongoDB.
