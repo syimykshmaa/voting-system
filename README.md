@@ -1,4 +1,6 @@
-https://github.com/syimykshmaa/voting-system-front.git - google drive
+https://github.com/syimykshmaa/voting-system-front - front
+
+https://drive.google.com/file/d/1_HVvAe5XH2CkCi_z0PfMWq2OlsEKsICm/view?usp=sharing - google drive
 
 https://canva.link/sbnrbo59thc2wrd - presentation
 
